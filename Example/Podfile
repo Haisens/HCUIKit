@@ -1,0 +1,8 @@
+use_frameworks!
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'HCUIKit_Example' do
+  pod 'HCUIKit', :path => '../'
+
+end
